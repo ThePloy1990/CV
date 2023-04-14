@@ -1,2 +1,4 @@
 # CV
-My_CV_from_hh
+My_CV
+1) Russian
+2) English
